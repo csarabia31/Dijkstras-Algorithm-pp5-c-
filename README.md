@@ -6,9 +6,9 @@ This program implements an undirected weighted graph ADT to perform Dijsktras Al
 
 To compile: open terminal and navigate to folder. Once at folder write:
    
-   -g++ Graph.cpp PP5Test.cpp (hit enter)
+   	-g++ Graph.cpp PP5Test.cpp (hit enter)
    
-   -run a.exe
+   	-run a.exe
 		
 ## Project By: Camilo Sarabia
 ## Test Code By: William Oropallo
