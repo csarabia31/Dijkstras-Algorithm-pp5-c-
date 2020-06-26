@@ -1,7 +1,11 @@
 # Dijkstras-Algorithm-pp5-c-
--to compile: open terminal, navigate to folder, once at folder
-		-g++ Graph.cpp PP5Test.cpp
+This program implements an undirected weighted graph ADT to perform Dijsktras Algorithm and find the shortest path between two vertices. My graph implements methods to add and remove vertices, add and remove edges, and calculate shortest path.
+
+-to compile: open terminal and navigate to folder. Once at folder write:
+		-g++ Graph.cpp PP5Test.cpp (hit enter)
 		-creates executable file
 		-run a.exe
+		
+Project By: Camilo Sarabia
+Test Code By: William Oropallo
 
-implemented an undirected weighted graph ADT and perform Dijsktras Algorithm to find the shortest path between two vertices. My graph implements methods to add and remove vertices, add and remove edges, and calculate shortest path.
