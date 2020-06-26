@@ -1,4 +1,5 @@
-# Dijkstras-Algorithm-pp5-c-
+#cop4530-pp5
+
 This program implements an undirected weighted graph ADT to perform Dijsktras Algorithm and find the shortest path between two vertices. My graph implements methods to add and remove vertices, add and remove edges, and calculate shortest path.
 
 -to compile: open terminal and navigate to folder. Once at folder write:
@@ -8,4 +9,5 @@ This program implements an undirected weighted graph ADT to perform Dijsktras Al
 		
 Project By: Camilo Sarabia
 Test Code By: William Oropallo
-
+Language: c++
+Program used: VS code
